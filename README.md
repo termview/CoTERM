@@ -38,6 +38,7 @@ When citing **CoTERM** in academic papers and theses, please use the following B
 ## EM, WO2 
 
 ## F1, TC
+- F1 [Semenov and Bojar, 2022](https://github.com/ufal/wmt22-term-based-metric)
 
 ## CoTERM
 
