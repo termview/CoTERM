@@ -33,7 +33,7 @@ When citing **CoTERM** in academic papers and theses, please use the following B
 
 ### Consistency measures:
 
-- [EM, WO2](https://github.com/mahfuzibnalam/terminology_evaluation)
+- EM, WO2: [source](https://github.com/mahfuzibnalam/terminology_evaluation), [paper](https://arxiv.org/pdf/2106.11891)
 - F1, TC: [Semenov and Bojar, 2022](https://github.com/ufal/wmt22-term-based-metric)
 
 ## CoTERM
