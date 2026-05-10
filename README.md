@@ -8,6 +8,7 @@ CoTERM  measures target term closeness to one or more reference translations, ta
 The proposed metric correlates strongly with human raters, and empirical evaluations of a wide range of NMTs and LLMs show that the best MT systems in standard metrics are not necessarily the best at treating terms. CoTERM is thus shown to be highly useful for diagnosing MT systems' term translation performance and conveniently seen  as complementary to generic measures for MT system evaluations.
 
 The paper can be found [here](coming soon)
+
 The poster can be found [here](./Poster_LREC_2026.pdf)
 
 When citing **CoTERM** in academic papers and theses, please use the following BibTeX entry:
