@@ -25,11 +25,11 @@ When citing **CoTERM** in academic papers and theses, please use the following B
 
 ## Requirements
 ### Sentence-level measures
-- BLEU, chrF **sacrebleu** [Post, 2018](https://github.com/mjpost/sacrebleu).
+- BLEU, chrF (sacrebleu): [source](https://github.com/mjpost/sacrebleu), [paper](https://aclanthology.org/W18-6319.pdf)
 
-- [BertScore]()
+- BertScore: [source](), [paper]()
 
-- [COMET](https://huggingface.co/Unbabel/wmt22-comet-da)
+- COMET: [source](https://huggingface.co/Unbabel/wmt22-comet-da), [paper]()
 
 ### Consistency measures:
 
