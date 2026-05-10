@@ -27,7 +27,7 @@ When citing **CoTERM** in academic papers and theses, please use the following B
 ### Sentence-level measures
 - BLEU, chrF (sacrebleu): [source](https://github.com/mjpost/sacrebleu), [paper](https://aclanthology.org/W18-6319.pdf)
 
-- BertScore: [source](), [paper]()
+- BertScore: [source](https://github.com/Tiiiger/bert_score), [paper](https://arxiv.org/pdf/1904.09675)
 
 - COMET: [source](https://huggingface.co/Unbabel/wmt22-comet-da), [paper]()
 
