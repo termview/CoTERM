@@ -24,14 +24,22 @@ When citing **CoTERM** in academic papers and theses, please use the following B
 ```
 
 # Requirements
-
-## BLEU
+## Sentence-level measures
+## BLEU, chrF
 - **sacrebleu** toolkit [Post, 2018](https://github.com/mjpost/sacrebleu).
 - Python 3.9  
 
 ## BertScore
 
 ## COMET
+
+## Consistency measures
+
+## EM, WO2 
+
+## F1, TC
+
+## CoTERM
 
 
 
