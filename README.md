@@ -27,14 +27,14 @@ When citing **CoTERM** in academic papers and theses, please use the following B
 ### Sentence-level measures
 - BLEU, chrF **sacrebleu** [Post, 2018](https://github.com/mjpost/sacrebleu).
 
-- BertScore
+- [BertScore]()
 
-- COMET: (https://huggingface.co/Unbabel/wmt22-comet-da)
+- [COMET](https://huggingface.co/Unbabel/wmt22-comet-da)
 
 ## Consistency measures:
 
-- EM, WO2 (https://github.com/mahfuzibnalam/terminology_evaluation)
-- F1, TC [Semenov and Bojar, 2022](https://github.com/ufal/wmt22-term-based-metric)
+- [EM, WO2](https://github.com/mahfuzibnalam/terminology_evaluation)
+- F1, TC: [Semenov and Bojar, 2022](https://github.com/ufal/wmt22-term-based-metric)
 
 ## CoTERM
 
