@@ -7,9 +7,9 @@ In this paper, we propose CoTERM, a new metric for automatic evaluation of term 
 CoTERM  measures target term closeness to one or more reference translations, taking into account the fundamental criteria for translating terms, i.e. (i) accuracy; (ii) consistency at document or corpus levels; and (iii) appropriateness to the domain conventions with regard to term variations. 
 The proposed metric correlates strongly with human raters, and empirical evaluations of a wide range of NMTs and LLMs show that the best MT systems in standard metrics are not necessarily the best at treating terms. CoTERM is thus shown to be highly useful for diagnosing MT systems' term translation performance and conveniently seen  as complementary to generic measures for MT system evaluations.
 
-The paper can be found [here](coming soon)
+The **paper** can be found [here](coming soon)
 
-The poster can be found [here](./Poster_LREC_2026.pdf)
+The **poster** can be found [here](./Poster_LREC_2026.pdf)
 
 When citing **CoTERM** in academic papers and theses, please use the following BibTeX entry:
 ```
@@ -23,9 +23,9 @@ When citing **CoTERM** in academic papers and theses, please use the following B
   }
 ```
 
-# Requirements
-## Sentence-level measures
-## BLEU, chrF
+## Requirements
+### Sentence-level measures
+### BLEU, chrF
 - **sacrebleu** toolkit [Post, 2018](https://github.com/mjpost/sacrebleu).
 - Python 3.9  
 
