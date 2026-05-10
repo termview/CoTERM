@@ -22,3 +22,17 @@ When citing **CoTERM** in academic papers and theses, please use the following B
   address = {Palma, Mallorca (Spain).}
   }
 ```
+
+# Requirements
+
+## BLEU
+- **sacrebleu** toolkit [Post, 2018](https://github.com/mjpost/sacrebleu).
+- Python 3.9  
+
+## BertScore
+
+## COMET
+
+
+
+
