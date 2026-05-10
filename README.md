@@ -33,7 +33,7 @@ When citing **CoTERM** in academic papers and theses, please use the following B
 
 ## COMET
 
-## Consistency measures
+## Consistency measures:
 
 ## EM, WO2 
 
