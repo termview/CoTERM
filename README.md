@@ -32,7 +32,7 @@ When citing **CoTERM** in academic papers and theses, please use the following B
 ## BertScore
 
 ## COMET
-
+- comet: (https://huggingface.co/Unbabel/wmt22-comet-da)
 ## Consistency measures:
 
 ## EM, WO2 
