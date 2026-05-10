@@ -1,11 +1,15 @@
 # CoTERM
 ## A Consistency-Oriented Term  Metric for MT System Evaluation
 
+Proper treatment of terms is an important and critical aspect in machine translation. It is therefore necessary to use appropriate metrics to evaluate MT system outputs from terminology perspective. However, despite the great improvements witnessed in the recent NMT and LLM models, MT system evaluation metrics that shed light on specific aspects of term translations are yet to be fully explored. In this paper, we propose CoTERM, a new metric for automatic evaluation of term translations based on the Herfindahl-Hirshman Index (HHI).
+CoTERM  measures target term closeness to one or more reference translations, taking into account the fundamental criteria for translating terms, i.e. (i) accuracy; (ii) consistency at document or corpus levels; and (iii) appropriateness to the domain conventions with regard to term variations. 
+The proposed metric correlates strongly with human raters, and empirical evaluations of a wide range of NMTs and LLMs show that the best MT systems in standard metrics are not necessarily the best at treating terms. CoTERM is thus shown to be highly useful for diagnosing MT systems' term translation performance and conveniently seen  as complementary to generic measures for MT system evaluations.
+
 The paper can be found [here](coming soon)
 
 When citing **CoTERM** in academic papers and theses, please use the following BibTeX entry:
 ```
-@InProceedings{HAZEM18.36,
+@InProceedings{coterm,
   author = {Amir Hazem and kyo Kageura},
   title = "{CoTERM: A Consistency-Oriented Term  Metric for MT System Evaluation}",
   booktitle = {Proceedings of The Fifteenth International Conference on Language Resources and Evaluation (LREC 2026)},
